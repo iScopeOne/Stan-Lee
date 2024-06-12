@@ -1,0 +1,103 @@
+body {
+    background-color: #FFFAF0;
+}
+h1 {
+    font-family: "Gwendolyn", cursive;
+    font-size: 60px;
+    text-align: center;
+    color: #E59560;
+}
+
+.img {
+    text-align: center;
+}
+
+section {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin: 50px;
+    background-color: #BACEC1;
+}
+
+.ueberschrift h2 {
+    font-family: "Gwendolyn", cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #E59560;
+}
+
+.liste {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 2px dotted black;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    width: fit-content;
+    margin: 10px;
+    padding: 20px;
+    background-color: #BACEC1;
+}
+
+.liste1 li {
+    width: fit-content;
+}
+
+.listen-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img5 {
+    text-align: center;
+}
+
+.memory {
+    font-family: "Gwendolyn", cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #E59560;
+}
+
+.img1 {
+    text-align: center;
+}
+
+.footer1 {
+    background-color: #BACEC1;
+    text-align: center;
+    color: gray;
+    padding: 5px;
+}
+
+div a {
+    color: grey;
+    font-size: 20px;   
+}
+
+div a:hover {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Gwendolyn", cursive;
+    color: #E59560;
+    font-size: 30px;
+}
+
+.video {
+    margin: 0 auto;
+    width: 550px;
+}
+
+iframe {
+    border: none;
+}
+
+
+
+
+
